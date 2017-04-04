@@ -14,5 +14,5 @@ With using new theme just created in above step, we must clear the cache.
 
 Finally, navigate to the _Appearance _\(admin/appearance\) page. You should see your Ice Cream theme listed under _Uninstalled themes_
 
-.
+.Click Install or [Install and set as default](http://drupal8.local/admin/appearance/default?theme=user_test_theme&token=V3WTSla-fAsiZEIf0XZCQGJmMG5yJNozxTajQWjfwH4)
 
