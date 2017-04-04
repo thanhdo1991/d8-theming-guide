@@ -8,4 +8,5 @@
 * [Info file](info-file/README.md)
   * [Make info file](info-file/make-info-file.md)
   * [Content of info file](info-file/content-of-info-file.md)
+  * [Enable theme](info-file/enable-theme.md)
 
