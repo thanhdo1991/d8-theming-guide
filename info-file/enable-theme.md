@@ -10,3 +10,9 @@ With using new theme just created in above step, we must clear the cache.
 
 **Use Drupal console or drush \(version &gt;=8 \)** : run command `drush cr` or `drupal cr all`
 
+---
+
+Finally, navigate to the _Appearance _\(admin/appearance\) page. You should see your Ice Cream theme listed under _Uninstalled themes_
+
+.
+
