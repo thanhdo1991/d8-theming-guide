@@ -1,6 +1,6 @@
 The machine name must be all lowercase, start with a letter, use an underscore \(_\) instead of spaces, and contain no other symbols._
 
-Examples of a good machine name_ _are \_icecream_ and \_ice\_cream_.
+Examples of a good machine name_ _are_  \_icecream_ and \_ice\_cream\_.
 
 We will choose icecream as example of theme name.
 
