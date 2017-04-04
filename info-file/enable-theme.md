@@ -8,5 +8,5 @@ With using new theme just created in above step, we must clear the cache.
 
 **Use Drupal UI : **navigating to _Configuration _&gt; _Performance _\(admin/config/development/performance\) page and clicking the 'Clear all caches' button.
 
-Use Drupal console or drush \(version &gt;=8 \) : run command `drush cr` or `drupal cr all`
+**Use Drupal console or drush \(version &gt;=8 \)** : run command `drush cr` or `drupal cr all`
 
