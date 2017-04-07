@@ -10,4 +10,5 @@
   * [Content of info file](info-file/content-of-info-file.md)
   * [Enable theme](info-file/enable-theme.md)
 * [Theme Settings Overview](theme-settings-overview.md)
+  * [Global settings](theme-settings-overview/global-settings-for-themes.md)
 
