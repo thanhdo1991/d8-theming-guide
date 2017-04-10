@@ -24,5 +24,6 @@ This is the root directory for the Bartik theme.
 
 ## Explore Bartik's template files
 
-Navigate to the templates directory and explore Bartik's template files.
+Navigate to the templates directory and explore Bartik's template files.  
+Start page.html.twig file with Bartik's regions, defined in _bartik.info.yml_
 
