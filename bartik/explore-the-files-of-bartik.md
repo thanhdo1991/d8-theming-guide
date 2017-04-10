@@ -42,5 +42,15 @@ Open _bartik.theme _. This is a PHP file \(known in previous versions of Drupal 
 * Navigate to Configuration &gt;  Responsive Image styles \(`admin/config/media/responsive-image-style/narrow`\)
 * Under Breakpoint group, select Bartik. Notice how the breakpoints defined in bartik.breakpoints.yml correspond with those listed in the field sets now displayed under Breakpoint group.
 
+## Explore Bartik's integration with Color module
+
+Navigate to Appearance &gt;  Settings &gt;  Bartik
+
+* Notice that Bartik's settings include a color picker UI
+* Try it out and change the background colors of the header
+* In a code editor, navigate to c_ore/themes/bartik/color _and explore the files inside: _color.inc_, _preview.css_, _preview.html _, and
+  _preview.js_
+  .
+
 
 
