@@ -1,4 +1,9 @@
-## Goal
+## Why explore Bartik?
 
-Recognize Bartik theme and identify its primary features. Explain the use cases for Bartik and what you can learn from it.
+* It's a good example of how to create a custom theme.
+* See the principles of Drupal theming-in-action.
+* It's Drupal's default theme and the first theme you'll see when you install Drupal.
+* See how Drupal implements responsive features in a theme.
+
+
 
