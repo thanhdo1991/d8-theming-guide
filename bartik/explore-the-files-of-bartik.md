@@ -47,7 +47,7 @@ Open _bartik.theme _. This is a PHP file \(known in previous versions of Drupal 
 * Navigate to Appearance &gt;  Settings &gt;  Bartik \(`admin/appearance/settings/bartik`\)
 * Notice that Bartik's settings include a color picker UI
 * Try it out and change the background colors of the header
-* In a code editor, navigate to c_ore/themes/bartik/color \_and explore the files inside: \_color.inc_, _preview.css_, _preview.html _, and
+* In a code editor, navigate to c_ore/themes/bartik/color and explore the files inside: color.inc_, _preview.css_, _preview.html _, and
   _preview.js_
   .
 
