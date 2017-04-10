@@ -9,5 +9,5 @@ Some, but not all, themes come with administrator-configurable settings that you
 
 To edit theme settings, click Manage to expand the toolbar menu if you don't see Appearance in the toolbar menu.
 
-
+Decide: Global or theme-specific?
 
