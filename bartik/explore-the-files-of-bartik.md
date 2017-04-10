@@ -22,7 +22,9 @@ This is the root directory for the Bartik theme.
 
 ![](/assets/bartik-info-regions.png)
 
-.
+## Explore Bartik's template files
+
+Navigate to the _templates _directory and explore Bartik's template files.
 
 
 
