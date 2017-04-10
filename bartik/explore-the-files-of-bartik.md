@@ -24,7 +24,5 @@ This is the root directory for the Bartik theme.
 
 ## Explore Bartik's template files
 
-Navigate to the _templates _directory and explore Bartik's template files.
-
-
+Navigate to the templates directory and explore Bartik's template files.
 
