@@ -11,4 +11,5 @@
   * [Enable theme](info-file/enable-theme.md)
 * [Theme Settings Overview](theme-settings-overview/README.md)
   * [Global settings](theme-settings-overview/global-settings-for-themes.md)
+  * [Theme-specific settings](theme-settings-overview/theme-specific-settings.md)
 
