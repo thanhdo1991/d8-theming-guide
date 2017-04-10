@@ -12,4 +12,5 @@
 * [Theme Settings Overview](theme-settings-overview/README.md)
   * [Global settings](theme-settings-overview/global-settings-for-themes.md)
   * [Theme-specific settings](theme-settings-overview/theme-specific-settings.md)
+  * [Resetting a theme's settings](theme-settings-overview/resetting-a-themes-settings.md)
 
