@@ -35,5 +35,7 @@ Take a look at \_bartik.libraries.yml \_and notice how all of Bartik's CSS files
 
 Open _bartik.theme _. This is a PHP file \(known in previous versions of Drupal as _template.php_\) containing PHP functions, mostly preprocess hooks. In Bartik's ".theme" file, you'll find functions that implement a variety of preprocess hooks, altering and adding variables to various template files.
 
+## Explore Bartik's responsive features
+
 
 
