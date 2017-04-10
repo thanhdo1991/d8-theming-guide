@@ -14,4 +14,5 @@
   * [Theme-specific settings](theme-settings-overview/theme-specific-settings.md)
   * [Reset a theme's settings](theme-settings-overview/resetting-a-themes-settings.md)
   * [Altering installed theme settings](theme-settings-overview/altering-installed-theme-settings.md)
+* [Change Theme Settings](change-theme-settings.md)
 
