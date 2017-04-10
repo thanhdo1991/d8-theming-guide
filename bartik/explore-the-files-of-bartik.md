@@ -27,3 +27,7 @@ This is the root directory for the Bartik theme.
 Navigate to the templates directory and explore Bartik's template files.  
 Start page.html.twig file with Bartik's regions, defined in _bartik.info.yml_
 
+## Explore Bartik's CSS libraries
+
+Take a look at _bartik.libraries.yml _and notice how all of Bartik's CSS files in its _css _directory are listed here under the `global-styling`key.
+
