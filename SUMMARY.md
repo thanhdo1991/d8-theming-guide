@@ -15,6 +15,6 @@
   * [Reset a theme's settings](theme-settings-overview/resetting-a-themes-settings.md)
   * [Altering installed theme settings](theme-settings-overview/altering-installed-theme-settings.md)
 * [Change Theme Settings](change-theme-settings.md)
-* [Bartik](bartik.md)
+* [Bartik](bartik/README.md)
   * [Why explore Bartik](bartik/why-explore-bartik.md)
 
