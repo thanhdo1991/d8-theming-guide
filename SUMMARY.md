@@ -17,4 +17,5 @@
 * [Change Theme Settings](change-theme-settings.md)
 * [Bartik](bartik/README.md)
   * [Why explore Bartik](bartik/why-explore-bartik.md)
+  * [Explore the files of Bartik](bartik/explore-the-files-of-bartik.md)
 
