@@ -9,6 +9,6 @@
   * [Make info file](info-file/make-info-file.md)
   * [Content of info file](info-file/content-of-info-file.md)
   * [Enable theme](info-file/enable-theme.md)
-* [Theme Settings Overview](theme-settings-overview.md)
+* [Theme Settings Overview](theme-settings-overview/README.md)
   * [Global settings](theme-settings-overview/global-settings-for-themes.md)
 
