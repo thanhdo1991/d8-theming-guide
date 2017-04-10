@@ -4,7 +4,9 @@ This is the root directory for the Bartik theme.
 
 ## Explore Bartik's info file
 
-### Define meta information![](/assets/bartik-info-metadata.png)
+### Define meta information
+
+![](/assets/bartik-info-metadata.png)
 
 
 
