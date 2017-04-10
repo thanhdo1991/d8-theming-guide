@@ -37,10 +37,10 @@ Open _bartik.theme _. This is a PHP file \(known in previous versions of Drupal 
 
 ## Explore Bartik's responsive features
 
-* Open _bartik.breakpoints.yml _and take note of the breakpoints defined in this YAML file.
+* Open bartik.breakpoints.yml and take note of the breakpoints defined in this YAML file.
 * Navigate to the Extend page and enable the core Responsive Images module.
 * Navigate to Configuration &gt;  Responsive Image styles
-* Under Breakpoint group, select Bartik. Notice how the breakpoints defined in _bartik.breakpoints.yml _correspond with those listed in the field sets now displayed under Breakpoint group.
+* Under Breakpoint group, select Bartik. Notice how the breakpoints defined in bartik.breakpoints.yml correspond with those listed in the field sets now displayed under Breakpoint group.
 
 
 
