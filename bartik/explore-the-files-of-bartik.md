@@ -39,7 +39,7 @@ Open _bartik.theme _. This is a PHP file \(known in previous versions of Drupal 
 
 * Open bartik.breakpoints.yml and take note of the breakpoints defined in this YAML file.
 * Navigate to the Extend page and enable the core Responsive Images module.
-* Navigate to Configuration &gt;  Responsive Image styles \(admin/config/media/responsive-image-style/narrow\)
+* Navigate to Configuration &gt;  Responsive Image styles \(`admin/config/media/responsive-image-style/narrow`\)
 * Under Breakpoint group, select Bartik. Notice how the breakpoints defined in bartik.breakpoints.yml correspond with those listed in the field sets now displayed under Breakpoint group.
 
 
