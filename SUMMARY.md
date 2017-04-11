@@ -20,5 +20,5 @@
   * [Explore the files of Bartik](bartik/explore-the-files-of-bartik.md)
   * [Recap](bartik/recap.md)
 * [Add Screenshot Theme](screenshot-your-theme/README.md)
-  * [Learning objectives](screenshot-your-theme/learning-objectives.md)
+  * [Prepare your demo page](screenshot-your-theme/prepare-your-demo-page.md)
 
