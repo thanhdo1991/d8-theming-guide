@@ -1,2 +1,2 @@
-In drupal 8, default location of screenshot is _DRUPALROOT/themes/custom/MYTHEME/screenshot.png_
+In drupal 8, default location of screenshot is _`DRUPALROOT/themes/custom/MYTHEME/screenshot.png`_
 
