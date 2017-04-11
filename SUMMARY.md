@@ -21,4 +21,5 @@
   * [Recap](bartik/recap.md)
 * [Add Screenshot Theme](screenshot-your-theme/README.md)
   * [Prepare your demo page](screenshot-your-theme/prepare-your-demo-page.md)
+  * [Create a screenshot graphic](screenshot-your-theme/create-a-screenshot-graphic.md)
 
