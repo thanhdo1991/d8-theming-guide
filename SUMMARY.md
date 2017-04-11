@@ -19,6 +19,6 @@
   * [Why explore Bartik](bartik/why-explore-bartik.md)
   * [Explore the files of Bartik](bartik/explore-the-files-of-bartik.md)
   * [Recap](bartik/recap.md)
-* [Add a Screenshot to Your Theme](add-a-screenshot-to-your-theme.md)
-  * [Learning objectives](add-a-screenshot-to-your-theme/learning-objectives.md)
+* [Add Screenshot Theme](screenshot-your-theme/README.md)
+  * [Learning objectives](screenshot-your-theme/learning-objectives.md)
 
