@@ -1,0 +1,2 @@
+It's not uncommon for a standard Drupal HTML page to include dozens of JavaScript files and even more CSS files. Aggregating the contents of these files into a smaller number of files means your browser makes fewer HTTP requests. This generally improves page performance. Since the files are aggregated once, and then cached on disk, subsequent changes to the source JavaScript or CSS files will not be detected by the browser until the cache has been cleared and the on-disk aggregate files have been recreated.
+
