@@ -1,2 +1,2 @@
-If you want to learn more about Drupal's front-end performance--read on!
+In previous versions of Drupal \(drupal 6,7\),  some features \(page caching and CSS aggregation\) were turned off on a new Drupal installation.
 
