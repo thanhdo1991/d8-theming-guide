@@ -23,4 +23,6 @@
   * [Prepare your demo page](screenshot-your-theme/prepare-your-demo-page.md)
   * [Create a screenshot graphic](screenshot-your-theme/create-a-screenshot-graphic.md)
   * [Screenshot directory ](screenshot-your-theme/screenshot-directory.md)
+* [Fast by Default](fast-by-default.md)
+  * [What is fast by default](fast-by-default/what-is-fast-by-default.md)
 
