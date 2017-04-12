@@ -27,4 +27,5 @@
   * [What is fast by default](fast-by-default/what-is-fast-by-default.md)
   * [Impact on theme developers](fast-by-default/impact-on-theme-developers.md)
     * [Twig cache](fast-by-default/impact-on-theme-developers/twig-cache.md)
+    * [Render API cache](fast-by-default/impact-on-theme-developers/render-api-cache.md)
 
