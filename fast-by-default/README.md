@@ -2,9 +2,9 @@ Drupal 8 comes with all of its caching features enabled by default. This improve
 
 In this tutorial we'll look at:
 
-* Why these features are enabled by default
-* How the theme layer leverages Drupal's caches
-* Why you should learn to disable them when doing development
+* Why these features are enabled by default ?
+* How the theme layer leverages Drupal's caches ?
+* Why you should learn to disable them when doing development ?
 
 
 
