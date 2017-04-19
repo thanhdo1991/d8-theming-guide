@@ -6,5 +6,7 @@ Regions give site layout and markup its structure.
 
 Regions are defined by themes.
 
-A header region might be rendered as an HTML`<header>`and a left sidebar might be an`<aside>`or a aside`<div> >`depending on the requirements of the theme
+A header region might be rendered as an HTML`<header>`and a left sidebar might be an`<aside>`or a aside`<div>`depending on the requirements of the theme.
+
+
 
