@@ -1,6 +1,6 @@
 If a theme does not specify a set of regions, Drupal will assume the default set of regions
 
-the default regions are defined as:
+The default regions are defined as:
 
 * page.header: Items for the header region.
 * page.primary\_menu: Items for the primary menu region.
