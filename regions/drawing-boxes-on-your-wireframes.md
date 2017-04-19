@@ -4,3 +4,5 @@ From above analysis, I use that to determine what regions I'm going to need.
 
 ![](/assets/concept-regions-blocks.png)
 
+Find common regions to many pages. They are headers, navigation, and footer,
+
