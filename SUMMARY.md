@@ -30,4 +30,5 @@
     * [Render API cache](fast-by-default/impact-on-theme-developers/render-api-cache.md)
     * [CSS and JavaScript aggregation](fast-by-default/impact-on-theme-developers/css-and-javascript-aggregation.md)
 * [Regions](regions.md)
+  * [What is a region?](regions/what-is-a-region.md)
 
