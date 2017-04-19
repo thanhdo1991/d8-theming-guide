@@ -2,3 +2,5 @@ Regions are represented in a theme's _.info.yml_ file as key/value pairs where t
 
 The content of a region consists of any blocks placed into the region that are visible on the page currently being viewed, and is generally output in a theme's _page.html.twig_ template file inside of wrapping markup like a `div`intended to provide layout and structure.
 
+![](/assets/region-template-file.png)
+
