@@ -4,3 +4,5 @@ Blocks is the base elements =&gt; Regions have containers to contain blocks.
 
 Regions give site layout and markup its structure.
 
+Regions are defined by themes.
+
