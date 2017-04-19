@@ -31,4 +31,5 @@
     * [CSS and JavaScript aggregation](fast-by-default/impact-on-theme-developers/css-and-javascript-aggregation.md)
 * [Regions](regions.md)
   * [What is a region?](regions/what-is-a-region.md)
+  * [Planning your theme's regions](regions/planning-your-themes-regions.md)
 
