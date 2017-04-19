@@ -32,4 +32,5 @@
 * [Regions](regions.md)
   * [What is a region?](regions/what-is-a-region.md)
   * [Planning your theme's regions](regions/planning-your-themes-regions.md)
+  * [Drawing boxes on your wireframes](regions/drawing-boxes-on-your-wireframes.md)
 
