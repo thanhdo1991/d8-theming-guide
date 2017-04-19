@@ -3,7 +3,7 @@ Themes define the regions that are available for site administrators to place bl
 Regions is created depend on:
 
 * Knowledge of how Drupal works 
-* Clear vision of the design you're trying to achieve.
+* Clear vision of the design you're trying to achieve
 
 
 
