@@ -2,3 +2,5 @@ Regions are areas of a page into which content can be placed. Content is assigne
 
 Blocks is the base elements =&gt; Regions have containers to contain blocks.
 
+Regions give site layout and markup its structure.
+
