@@ -34,4 +34,5 @@
   * [Planning your theme's regions](regions/planning-your-themes-regions.md)
   * [Drawing boxes on your wireframes](regions/drawing-boxes-on-your-wireframes.md)
   * [Planning regions for a responsive design](regions/planning-regions-for-a-responsive-design.md)
+  * [Themes define regions](regions/themes-define-regions.md)
 
