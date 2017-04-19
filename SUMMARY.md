@@ -36,4 +36,5 @@
   * [Planning regions for a responsive design](regions/planning-regions-for-a-responsive-design.md)
   * [Themes define regions](regions/themes-define-regions.md)
   * [Default regions](regions/default-regions.md)
+  * [Understanding page\_top and page\_bottom](regions/understanding-pagetop-and-page-bottom.md)
 
