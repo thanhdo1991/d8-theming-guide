@@ -16,5 +16,5 @@ Navigate to Structure &gt; Block layout \(admin/structure/block\) to confirm tha
 
 #### Edit your page.html.twig file
 
-Displaying regions in your _page.html.twig _template.
+Displaying regions in your _page.html.twig_ template.
 
