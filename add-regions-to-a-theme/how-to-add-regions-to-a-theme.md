@@ -6,6 +6,8 @@ Declare some region on .info.yml file:
 
 #### Clear the cache
 
+Clear the cache so your new regions are detected.
+
 #### Confirm that it's working
 
 #### Edit your page.html.twig file
