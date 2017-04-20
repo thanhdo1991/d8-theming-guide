@@ -2,7 +2,7 @@ Customizing the available regions in your theme is likely one of the first thing
 
 Doing so gives you complete control over where content is displayed on the page, and the markup involved. Adding regions to a theme is a two-step process that involves editing your theme's _.info.yml_ file and updating your _page.html.twig_ file.
 
-In this tutorial we'll learn how to:
+In this tutorial, we need understand:
 
 * Declare one or more new regions to Drupal
 * Display the content of those regions in our theme
