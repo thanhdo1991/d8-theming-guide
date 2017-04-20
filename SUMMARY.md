@@ -40,4 +40,5 @@
   * [Hidden regions](regions/hidden-regions.md)
   * [Further your understanding](regions/further-your-understanding.md)
 * [Add Regions to a Theme](add-regions-to-a-theme.md)
+  * [How to add regions to a theme](add-regions-to-a-theme/how-to-add-regions-to-a-theme.md)
 
