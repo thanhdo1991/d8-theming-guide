@@ -1,7 +1,8 @@
-Explain: why are regions defined by themes?
-
+* Explain: why are regions defined by themes?
 * Regions are optional, so what happens if your theme doesn't define any regions?
 * On a screenshot of your website, or one of your favorite news sites, see if you can draw boxes that identify the regions that might be used to create a Drupal theme for this site.
+
+
 
 
 
