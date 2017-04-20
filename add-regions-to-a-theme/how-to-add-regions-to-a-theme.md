@@ -18,3 +18,5 @@ Navigate to Structure &gt; Block layout \(admin/structure/block\) to confirm tha
 
 Displaying regions in your _page.html.twig_ template.
 
+If you haven't already, you'll need to override the default _page.html.twig _file since we'll be modifying it.
+
