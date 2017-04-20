@@ -22,3 +22,5 @@ If you haven't already, you'll need to override the default _page.html.twig_ fil
 
 Now, just adjust the markup in your _page.html.twig_ template to accommodate your new regions.
 
+![](/assets/region_page_twig.png)
+
