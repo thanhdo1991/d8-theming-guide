@@ -42,4 +42,5 @@
 * [Add Regions to a Theme](add-regions-to-a-theme.md)
   * [How to add regions to a theme](add-regions-to-a-theme/how-to-add-regions-to-a-theme.md)
   * [Further your understanding](add-regions-to-a-theme/further-your-understanding.md)
+* [Theme Inheritance with Base Themes](theme-inheritance-with-base-themes.md)
 
