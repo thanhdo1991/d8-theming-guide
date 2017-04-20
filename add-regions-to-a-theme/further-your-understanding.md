@@ -4,7 +4,7 @@
 
 * page.html.twig
 
-Why are themes responsible for declaring regions?
+**Why are themes responsible for declaring regions?**
 
 -&gt; Each site has specific design with fixed layout. Theme will define layout by regions.
 
