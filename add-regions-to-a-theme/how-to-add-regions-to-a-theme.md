@@ -12,9 +12,9 @@ Clear the cache so your new regions are detected.
 
 Navigate to Structure &gt; Block layout \(admin/structure/block\) to confirm that Drupal is now using your regions.
 
-![](/assets/block-layout-regions-shown.jpg)
+![](/assets/primary_menu.png)
 
 #### Edit your page.html.twig file
 
-
+Displaying regions in your _page.html.twig _template.
 
