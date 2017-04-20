@@ -10,6 +10,8 @@ Clear the cache so your new regions are detected.
 
 #### Confirm that it's working
 
+Navigate to Structure &gt; Block layout \(admin/structure/block\) to confirm that Drupal is now using your regions.
+
 #### Edit your page.html.twig file
 
 
