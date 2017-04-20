@@ -1,6 +1,7 @@
 **What two files need to be edited to declare a new region?**
 
-* .info.yml
+* _THEMENAME.info.yml_
+
 * page.html.twig
 
 Why are themes responsible for declaring regions?
