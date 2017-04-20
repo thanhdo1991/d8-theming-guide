@@ -38,4 +38,5 @@
   * [Default regions](regions/default-regions.md)
   * [Understanding page\_top and page\_bottom](regions/understanding-pagetop-and-page-bottom.md)
   * [Hidden regions](regions/hidden-regions.md)
+  * [Further your understanding](regions/further-your-understanding.md)
 
