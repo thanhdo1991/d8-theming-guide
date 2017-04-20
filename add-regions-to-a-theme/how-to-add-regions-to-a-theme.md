@@ -20,5 +20,5 @@ Displaying regions in your _page.html.twig_ template.
 
 If you haven't already, you'll need to override the default _page.html.twig_ file since we'll be modifying it.
 
-Now, just adjust the markup in your _page.html.twig _template to accommodate your new regions.
+Now, just adjust the markup in your _page.html.twig_ template to accommodate your new regions.
 
