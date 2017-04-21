@@ -46,4 +46,5 @@
   * [Overview](theme-inheritance-with-base-themes/overview.md)
   * [Terminology](theme-inheritance-with-base-themes/terminology.md)
   * [Two base themes](theme-inheritance-with-base-themes/two-base-themes.md)
+  * [Example use cases](theme-inheritance-with-base-themes/example-use-cases.md)
 
