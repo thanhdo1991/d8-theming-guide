@@ -48,4 +48,5 @@
   * [Two base themes](theme-inheritance-with-base-themes/two-base-themes.md)
   * [Example use cases](theme-inheritance-with-base-themes/example-use-cases.md)
   * [Further your understanding](theme-inheritance-with-base-themes/further-your-understanding.md)
+* [Drupal Base Themes: Stable and Classy](drupal-base-themes-stable-and-classy.md)
 
