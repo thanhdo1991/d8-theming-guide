@@ -9,3 +9,8 @@ If you choose to not declare a base theme for your custom theme, Drupal will aut
 
 Without use base theme, the custom theme may broken in the future when drupal updated \(core change\).
 
+You can rely upon Stable as your default base theme without worry that the markup will change on you during the Drupal 8 cycle.
+
+  
+
+
