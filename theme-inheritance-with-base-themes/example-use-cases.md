@@ -14,3 +14,9 @@ Zen, Omega, and Adaptive are all base themes that introduce a new method for han
 
 ![](/assets/omega_theme.png)
 
+---
+
+Share common design resources between departments at a university, yet allow each department to customize their site. Create a base theme that contains common colors, logos, and a basic layout that works for most situations. Then allow each department to create a subtheme and override the logo for just their department.
+
+
+
