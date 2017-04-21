@@ -10,9 +10,7 @@ Implement a grid system like 960gs as a base theme. Include the baseline CSS and
 
 ---
 
-
-
-
-
 Zen, Omega, and Adaptive are all base themes that introduce a new method for handling elements of creating a responsive Drupal theme in a reusable way. Rather then having to implement those methods each time on your own, extend one of these base themes. Many new best practices for theming are iterated on between major Drupal versions in this way.
+
+![](/assets/omega_theme.png)
 
