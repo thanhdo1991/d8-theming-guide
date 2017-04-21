@@ -5,3 +5,7 @@ A theme may:
 
 -&gt; This inheritance can be chained together indefinitely.
 
+If you choose to not declare a base theme for your custom theme, Drupal will automatically assign Stable as the base theme.
+
+Without use base theme, the custom theme may broken in the future when drupal updated \(core change\).
+
