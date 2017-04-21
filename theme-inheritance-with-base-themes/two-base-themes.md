@@ -11,6 +11,5 @@ Without use base theme, the custom theme may broken in the future when drupal up
 
 You can rely upon Stable as your default base theme without worry that the markup will change on you during the Drupal 8 cycle.
 
-  
-
+If you really want to bypass Stable and inherit directly from core you need to explicitly declare so by setting the base theme to 'false' in your theme's info file.
 
