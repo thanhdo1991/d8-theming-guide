@@ -49,5 +49,6 @@
   * [Example use cases](theme-inheritance-with-base-themes/example-use-cases.md)
   * [Further your understanding](theme-inheritance-with-base-themes/further-your-understanding.md)
 * [Configure Your Environment for Theme Development](configure-your-environment-for-theme-development.md)
+  * [Disable render caching and JavaScript/CSS aggregation](configure-your-environment-for-theme-development/disable-render-caching-and-javascriptcss-aggregation.md)
 * [Use a Base Theme](use-a-base-theme.md)
 
