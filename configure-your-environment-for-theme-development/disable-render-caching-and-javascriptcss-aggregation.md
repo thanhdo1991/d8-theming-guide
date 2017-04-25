@@ -4,7 +4,7 @@ When setting up a development environment, change these settings directly in you
 
 Take a look at this video:
 
-{% video %}https://vimeo.com/128858567{% endvideo %}
+
 
 
 
