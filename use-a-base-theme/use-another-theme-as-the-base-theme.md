@@ -14,3 +14,5 @@ Clear Drupal's internal cache using either the Drupal UI, or a tool like drush, 
 
 Take a look at this video:
 
+![](/assets/create-theme.gif)
+
