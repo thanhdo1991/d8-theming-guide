@@ -52,5 +52,6 @@
   * [Disable render caching and JavaScript/CSS aggregation](configure-your-environment-for-theme-development/disable-render-caching-and-javascriptcss-aggregation.md)
   * [Enable Twig debugging options](configure-your-environment-for-theme-development/enable-twig-debugging-options.md)
   * [Optional extras](configure-your-environment-for-theme-development/optional-extras.md)
+  * [Further your understanding](configure-your-environment-for-theme-development/further-your-understanding.md)
 * [Use a Base Theme](use-a-base-theme.md)
 
