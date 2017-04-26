@@ -8,5 +8,3 @@
 
 _services.yml_ or _development.services.yml_ if use _settings.local.php_ file
 
-Enable theme debugging for your own development environment and poke around a bit. What changed?
-
