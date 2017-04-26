@@ -1,8 +1,14 @@
 Configure your theme to use another theme as the **base theme**.
 
-1. #### Determine the theme's name
-2. #### Edit your .info.yml file
-3. #### Clear the cache
+#### Determine the theme's name
+
+Find the machine name of the theme you would like to use as a base theme.
+
+#### Edit your .info.yml file
+
+Edit your theme's _THEMENAME.info.yml _file, add a `base theme `key to the existing YAML metadata.
+
+#### Clear the cache
 
 
 
