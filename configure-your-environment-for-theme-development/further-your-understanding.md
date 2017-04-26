@@ -6,5 +6,5 @@
 
 **In which file do I change the settings that enables the Twig engines debugging output?**
 
-_services.yml_ or _development.services.yml_ if use _settings.local.php_ file
+_services.yml_ or _development.services.yml_ if _settings.local.php_ file is used
 
