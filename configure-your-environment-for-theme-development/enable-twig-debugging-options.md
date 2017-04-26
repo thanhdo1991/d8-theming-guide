@@ -6,17 +6,11 @@ Take a look at this video:
 
 [![](/assets/disable-twig-cache.gif)](https://www.youtube.com/watch?v=gOT0mnIj_ZU)
 
-This is what each of those settings is used for: 
+This is what each of those settings is used for:
 
-**debug**
+**debug: **\(boolean\) Enable various debugging features in the Twig engine.
 
-\(boolean\) Enable various debugging features in the Twig engine.
+**auto\_reload : **\(boolean\) When set to \`true\`, Twig will automatically recompile all templates when their source code changes.
 
-**auto\_reload**
-
-\(boolean\) When set to \`true\`, Twig will automatically recompile all templates when their source code changes.
-
-**cache**
-
-\(boolean\) Disabling the Twig cache by setting this to \`false\` will recompile the templates from source each time they are used. In most cases the \`auto\_reload\` setting above should be enabled rather than disabling the Twig cache.
+**cache : **\(boolean\) Disabling the Twig cache by setting this to \`false\` will recompile the templates from source each time they are used. In most cases the \`auto\_reload\` setting above should be enabled rather than disabling the Twig cache.
 
