@@ -4,5 +4,5 @@ When setting up a development environment, change these settings directly in you
 
 Take a look at this video:
 
-[![](/assets/giphy.gif)](https://www.youtube.com/watch?v=T503XIFn1gY)
+[![](/assets/disable-css-js-cache.gif)](https://www.youtube.com/watch?v=T503XIFn1gY)
 
