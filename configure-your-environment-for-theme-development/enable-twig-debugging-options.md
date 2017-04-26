@@ -2,3 +2,5 @@ Enabling Twig debugging involves locating the`twig.config[debug]`settings in you
 
 These variables can be edited either directly in _sites/default/services.yml_, or alternately they can be added to the _sites/development.services.yml_ file if you followed the steps above to use a _settings.local.php_ file.
 
+Take a look at this video:
+
