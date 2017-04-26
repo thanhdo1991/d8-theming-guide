@@ -12,3 +12,5 @@ Edit your theme's THEMENAME.info.yml file, add a `base theme`key to the existing
 
 Clear Drupal's internal cache using either the Drupal UI, or a tool like drush, so that the changes to your .info.yml file are read by Drupal.
 
+Take a look at this video:
+
