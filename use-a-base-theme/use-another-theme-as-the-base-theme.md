@@ -6,9 +6,9 @@ Find the machine name of the theme you would like to use as a base theme.
 
 #### Edit your .info.yml file
 
-Edit your theme's _THEMENAME.info.yml _file, add a `base theme `key to the existing YAML metadata.
+Edit your theme's THEMENAME.info.yml file, add a `base theme`key to the existing YAML metadata.
 
 #### Clear the cache
 
-
+Clear Drupal's internal cache using either the Drupal UI, or a tool like drush, so that the changes to your _.info.yml _file are read by Drupal.
 
