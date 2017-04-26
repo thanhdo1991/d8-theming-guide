@@ -2,8 +2,8 @@ Make your theme a subtheme of a "base" theme, allowing it to inherit all the bas
 
 In this tutorial we'll learn how to:
 
-* Use the `base theme `key in our theme's .info.yml file
-* Make our Ice Cream theme inherit from the Classy theme, or any other theme
+* Use the `base theme`key in our theme's .info.yml file
+* Make our Classical theme inherit from the Classy theme, or any other theme
 
 
 
