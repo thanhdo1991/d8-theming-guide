@@ -25,3 +25,5 @@ Stark does include a few files that are there but don't actually do anything, ex
 
 Stark's _css/layout.css_ exists, but is now blank
 
+Stark no longer removes _normalize.css _, a file is added by core.
+
