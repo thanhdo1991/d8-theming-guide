@@ -19,5 +19,5 @@ You can see there are basic attributes being added to the main page elements, bu
 
 ### Classy:_node.html.twig_
 
-
+![](/assets/node-html-php-classy.png)
 
