@@ -15,7 +15,6 @@ According to Stark's _README.txt _, Stark is provided for demonstration purposes
 Stark:
 
 * Drupal's default markup
-
 * No styling through CSS
 
 
