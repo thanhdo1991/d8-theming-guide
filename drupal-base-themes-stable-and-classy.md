@@ -24,5 +24,7 @@ Stable is Drupal's default "clean" base theme.
 
 It provides minimal markup and a small handful of CSS classes.
 
-When not use key base theme on _info.yml_ file, Stable will be used
+When not use key base theme on _info.yml_ file, Stable will be used.
+
+The intent is that this Stable base theme will be used as a backwards compatibility layer protecting your theme against changes to core's markup and styling.
 
