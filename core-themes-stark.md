@@ -19,3 +19,7 @@ Stark:
 
 
 
+Use browser tools to inspect elements or view source to see which of Drupal's system templates are in use for various elements.
+
+
+
