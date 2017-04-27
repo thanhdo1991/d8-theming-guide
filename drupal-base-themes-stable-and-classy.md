@@ -4,6 +4,11 @@ There are five themes on Drupal 8 core:
 
 * Bartik is the default user-facing theme
 * Seven is the default administration theme
+* Classy
+
+* Stable
+
+* Stark
 
 
 
