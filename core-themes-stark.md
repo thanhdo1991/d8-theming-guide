@@ -23,11 +23,6 @@ Use browser tools to inspect elements or view source to see which of Drupal's sy
 
 Stark does include a few files that are there but don't actually do anything, except to show you that you could use them.
 
-Stark's _css/layout.css_ exists, but is now blank
-
-Stark no longer removes _normalize.css _, a file is added by core.
-
-
-
-
+* Stark's _css/layout.css_ exists, but is now blank
+* Stark no longer removes _normalize.css _, a file is added by core.
 
