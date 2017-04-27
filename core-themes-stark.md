@@ -10,13 +10,5 @@ Recognize Stark theme and identify its primary features. Explain the use cases f
 * Troubleshoot Drupal core behavior and output.
 * Troubleshoot and isolate problems from other modules or themes.
 
-
-
-According to Stark's
-
-_README.txt_
-
-, Stark is provided for demonstration purposes.
-
-
+According to Stark's _README.txt _, Stark is provided for demonstration purposes.
 
