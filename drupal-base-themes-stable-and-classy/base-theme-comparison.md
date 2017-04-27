@@ -5,3 +5,5 @@ The decision to use Stable or Classy as the base theme:
 
 If we take a look at the Stark theme directory \(_/core/themes/stark_\) we can see that there are no template files at all.
 
+![](/assets/stark-theme.gif)
+
