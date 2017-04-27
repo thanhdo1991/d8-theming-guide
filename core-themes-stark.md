@@ -12,7 +12,7 @@ Recognize Stark theme and identify its primary features. Explain the use cases f
 
 According to Stark's _README.txt _, Stark is provided for demonstration purposes.
 
-Stark 
+Stark:
 
 * Drupal's default markup
 
