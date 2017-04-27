@@ -12,5 +12,5 @@ There are five themes on Drupal 8 core:
 
 Stark theme provides the absolute minimal amount of markup and CSS.
 
-
+It's primarily for demonstration purposes, or for sites that have very strict markup and semantic requirements.
 
