@@ -4,3 +4,11 @@ Stark is one of the themes bundled with Drupal 8. It is intentionally barebones 
 
 Recognize Stark theme and identify its primary features. Explain the use cases for Stark and what you can learn from it.
 
+## Why explore Stark?
+
+* Examine the default markup and behavior provided by the Drupal system.
+* Troubleshoot Drupal core behavior and output.
+* Troubleshoot and isolate problems from other modules or themes.
+
+
+
