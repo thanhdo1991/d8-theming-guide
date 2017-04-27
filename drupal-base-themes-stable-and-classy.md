@@ -30,5 +30,5 @@ The intent is that this Stable base theme will be used as a backwards compatibil
 
 ## Classy
 
-
+Classy provides the rich markup familiar to users of previous versions of Drupal.
 
