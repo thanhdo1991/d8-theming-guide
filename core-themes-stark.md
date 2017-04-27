@@ -26,4 +26,4 @@ Stark does include a few files that are there but don't actually do anything, ex
 * Stark's _css/layout.css_ exists, but is now blank
 * Stark no longer removes _normalize.css _, a file is added by core.
 * Stark's _stark.libraries.yml_ exists to show you how to load a CSS library, and it does in fact add css/layout.css to the head of the HTML pages that use Stark, it just doesn't do anything to the layout, because layout.css is blank.
-
+* Similarly, _stark.breakpoints.yml_ does include some good examples of breakpoints, but since they don't correspond to any actual media queries in a CSS file in the Stark theme, this file doesn't really represent any real breakpoints or media queries in Stark.
