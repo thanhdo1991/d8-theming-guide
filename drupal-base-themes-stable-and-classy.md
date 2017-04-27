@@ -28,3 +28,7 @@ When not use key base theme on _info.yml_ file, Stable will be used.
 
 The intent is that this Stable base theme will be used as a backwards compatibility layer protecting your theme against changes to core's markup and styling.
 
+## Classy
+
+
+
