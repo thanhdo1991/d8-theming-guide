@@ -13,5 +13,11 @@ If we compare that to the Stable theme \(_/core/themes/stable_\) we see that it 
 
 ### Stable:_node.html.twig_
 
+![](/assets/node-html-php-stable.png)
 
+You can see there are basic attributes being added to the main page elements, but the overall the markup is quite clean. We can compare this to the implementation provided by the Classy theme \(in
+
+_/core/theme/class/templates/content/node.html.twig_
+
+\)
 
