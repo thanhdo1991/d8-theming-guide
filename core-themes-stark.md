@@ -12,3 +12,11 @@ Recognize Stark theme and identify its primary features. Explain the use cases f
 
 
 
+According to Stark's
+
+_README.txt_
+
+, Stark is provided for demonstration purposes.
+
+
+
