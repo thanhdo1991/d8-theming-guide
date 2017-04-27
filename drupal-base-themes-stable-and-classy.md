@@ -8,7 +8,9 @@ There are five themes on Drupal 8 core:
 * Stable
 * Stark
 
+## Stark
 
+Stark theme provides the absolute minimal amount of markup and CSS.
 
 
 
