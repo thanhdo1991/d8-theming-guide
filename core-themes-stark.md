@@ -21,3 +21,10 @@ Use browser tools to inspect elements or view source to see which of Drupal's sy
 
 ![](/assets/stark.png)
 
+Stark does include a few files that are there but don't actually do anything, except to show you that you could use them.
+
+  
+
+
+
+
