@@ -56,4 +56,5 @@
 * [Use a Base Theme](use-a-base-theme.md)
   * [Use another theme as the base theme](use-a-base-theme/use-another-theme-as-the-base-theme.md)
 * [Drupal Base Themes: Stable and Classy](drupal-base-themes-stable-and-classy.md)
+  * [Base theme comparison](drupal-base-themes-stable-and-classy/base-theme-comparison.md)
 
