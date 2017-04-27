@@ -32,3 +32,5 @@ The intent is that this Stable base theme will be used as a backwards compatibil
 
 Classy provides the rich markup familiar to users of previous versions of Drupal.
 
+Its markup provides many classes as well as an attempt at basic styling of core's markup.
+
