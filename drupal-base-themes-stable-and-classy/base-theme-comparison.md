@@ -15,7 +15,7 @@ If we compare that to the Stable theme \(_/core/themes/stable_\) we see that it 
 
 ![](/assets/node-html-php-stable.png)
 
-You can see there are basic attributes being added to the main page elements, but the overall the markup is quite clean. We can compare this to the implementation provided by the Classy theme \(in _/core/theme/classy/templates/content/node.html.twig_\)
+You can see there are basic attributes being added to the main page elements, but the overall the markup is quite clean. We can compare this to the implementation provided by the Classy theme \(in _/core/themes/classy/templates/content/node.html.twig_\)
 
 ### Classy:_node.html.twig_
 
