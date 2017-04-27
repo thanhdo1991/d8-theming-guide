@@ -20,5 +20,7 @@ But it can be incredibly helpful in tracking down module-related markup and CSS 
 
 ## Stable
 
-Stable is Drupal's default "clean" base theme. It provides minimal markup and a small handful of CSS classes.
+Stable is Drupal's default "clean" base theme. 
+
+It provides minimal markup and a small handful of CSS classes.
 
