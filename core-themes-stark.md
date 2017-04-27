@@ -25,4 +25,5 @@ Stark does include a few files that are there but don't actually do anything, ex
 
 * Stark's _css/layout.css_ exists, but is now blank
 * Stark no longer removes _normalize.css _, a file is added by core.
+* Stark's stark.libraries.yml exists to show you how to load a CSS library, and it does in fact add css/layout.css to the head of the HTML pages that use Stark, it just doesn't do anything to the layout, because layout.css is blank.
 
