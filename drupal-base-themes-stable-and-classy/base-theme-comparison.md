@@ -11,3 +11,7 @@ If we compare that to the Stable theme \(_/core/themes/stable_\) we see that it 
 
 ![](/assets/stable-template.png)
 
+### Stable:_node.html.twig_
+
+
+
