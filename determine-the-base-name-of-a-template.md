@@ -8,5 +8,5 @@ In this article, we need understand:
 
 With the hook name, you can locate its base template file.
 
-
+First, if you already know the filename of the template, you can infer the hook name from that.
 
