@@ -4,5 +4,7 @@ In this article, we need understand:
 
 * How to figure out the _hook_ name for any template
 
+## Determine the hook name of a template
+
 
 
