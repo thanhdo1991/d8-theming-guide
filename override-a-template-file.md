@@ -8,11 +8,11 @@ In this tutorial we'll:
 
 ## How to override a template file
 
-* ##### Locate the template you wish to override
-* ##### Copy the file
-* ##### Change the file name
-* ##### Clear the cache
-* ##### Modify the template
+1. ##### Locate the template you wish to override
+2. ##### Copy the file
+3. ##### Change the file name
+4. ##### Clear the cache
+5. ##### Modify the template
 
 ### 
 
