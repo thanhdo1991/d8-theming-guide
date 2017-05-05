@@ -22,5 +22,7 @@ Sometimes you might want to get more specific and change the markup of an elemen
 
 ![](/assets/twig-debug-output.png)
 
+## Suggestions added by hooks
+
 
 
