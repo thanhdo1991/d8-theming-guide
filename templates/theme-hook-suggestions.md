@@ -18,5 +18,7 @@ Sometimes you might want to get more specific and change the markup of an elemen
 2. \[ \] _themes/icecream/templates/node--blog\_post.html.twig _\(Not a match: wrong node type\) 
 3. \[x\] _themes/icecream/templates/node.html.twig _\(Match: all nodes; template used\)
 
+### Example Twig debug output:
+
 
 
