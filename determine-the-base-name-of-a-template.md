@@ -2,7 +2,7 @@ There are many situations in which you need to know the _theme hook_, or _base n
 
 In this tutorial we'll learn:
 
-* How to figure out the _hook _name for any template
+* How to figure out the _hook_ name for any template
 
 
 
