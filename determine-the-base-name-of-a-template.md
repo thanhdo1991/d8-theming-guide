@@ -10,3 +10,5 @@ With the hook name, you can locate its base template file.
 
 First, if you already know the filename of the template, you can infer the hook name from that.
 
+The typical pattern for naming template files is `{hook}--{optional context}.html.twig`
+
