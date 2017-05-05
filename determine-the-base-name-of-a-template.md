@@ -12,3 +12,5 @@ First, if you already know the filename of the template, you can infer the hook 
 
 The typical pattern for naming template files is `{hook}--{optional context}.html.twig`
 
+![](/assets/hook-name-discovery.png)
+
