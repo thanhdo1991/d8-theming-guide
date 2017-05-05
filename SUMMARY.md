@@ -60,4 +60,5 @@
   * [Explore Drupal's base themes](drupal-base-themes-stable-and-classy/explore-drupals-base-themes.md)
 * [Core Themes: Stark](core-themes-stark.md)
 * [Templates](templates.md)
+  * [Template files](templates/template-files.md)
 
