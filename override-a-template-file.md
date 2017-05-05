@@ -2,11 +2,9 @@ Purpose : learn how to locate the template file that is currently being used to 
 
 In this tutorial we'll:
 
-* Override the _node.twig.html _template in our theme
+* Override the \_node.twig.html \_template in our theme
 * Make changes to the markup
-* Create a content type specific template override like
-  _node--CONTENT\_TYPE.twig.html_
+* Create a content type specific template override like _node--CONTENT\_TYPE.twig.html_
 
-  
 
 
