@@ -6,5 +6,7 @@ In this article, we need understand:
 
 ## Determine the hook name of a template
 
+With the hook name, you can locate its base template file.
+
 
 
