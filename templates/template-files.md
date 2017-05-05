@@ -8,3 +8,15 @@ Drupal generates a page's HTML by combining the output of many template files.
 
 Consider the file _node.html.twig _. Any time a node is displayed on your site, this template is responsible for generating the HTML markup that represents the node.![](/assets/concept-template-node-single.png)
 
+![](/assets/concept-template-node-single.png)
+
+![](/assets/concept-template-node-single.png)
+
+![](/assets/concept-template-node-single.png)
+
+![](/assets/concept-template-node-single.png)
+
+![](/assets/concept-template-node-single.png)
+
+![](/assets/concept-template-node-single.png)
+
