@@ -14,7 +14,7 @@ In this tutorial we'll:
 4. ##### Clear the cache
 5. ##### Modify the template
 
-### 
+### [![](/assets/override-template.gif)](https://www.youtube.com/watch?v=GOGJheeQ2DQ)
 
 
 
