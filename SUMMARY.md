@@ -65,4 +65,5 @@
   * [How Drupal determines which template to use](templates/how-drupal-determines-which-template-to-use.md)
   * [Theme Hook Suggestions](templates/theme-hook-suggestions.md)
 * [Override a Template File](override-a-template-file.md)
+* [Determine the Base Name of a Template](determine-the-base-name-of-a-template.md)
 
