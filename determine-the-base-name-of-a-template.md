@@ -20,5 +20,11 @@ If the file name doesn't contain a`--{optional context}`part, then after removin
 
 ## Locate hook names in debugging output
 
+1. ### Enable theme debugging
+2. ### Open a page in your browser
+3. ### View source
 
+Example:
+
+![](/assets/determine-theme-suggest.png)
 
