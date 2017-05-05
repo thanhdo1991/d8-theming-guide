@@ -14,17 +14,9 @@ Sometimes you might want to get more specific and change the markup of an elemen
 
 ### Example 2: Displaying_node/21_, node type: "page".
 
-1. \[ \]
-   _themes/icecream/templates/node--42.html.twig_
-   \(Not a match; wrong node ID\)
-2. \[ \]
-   _themes/icecream/templates/node--blog\_post.html.twig_
-   \(Not a match: wrong node type\)
-3. \[x\]
-   _themes/icecream/templates/node.html.twig_
-   \(Match: all nodes; template used\)
-
-
+1. \[ \] _themes/icecream/templates/node--42.html.twig _\(Not a match; wrong node ID\)
+2. \[ \] _themes/icecream/templates/node--blog\_post.html.twig _\(Not a match: wrong node type\) 
+3. \[x\] _themes/icecream/templates/node.html.twig _\(Match: all nodes; template used\)
 
 
 
