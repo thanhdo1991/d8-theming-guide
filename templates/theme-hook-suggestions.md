@@ -20,5 +20,7 @@ Sometimes you might want to get more specific and change the markup of an elemen
 
 ### Example Twig debug output:
 
+![](/assets/twig-debug-output.png)
+
 
 
