@@ -24,5 +24,11 @@ Sometimes you might want to get more specific and change the markup of an elemen
 
 ## Suggestions added by hooks
 
+Theme hook suggestions are provided by one of three hooks. Both modules and themes can add or remove suggestions from the list.
+
+* _hook\_theme\_suggestions\_HOOK\(array $variables\)_
+* _hook\_theme\_suggestions\_alter\(array &$suggestions, array $variables, $hook\)_
+* _hook\_theme\_suggestions\_HOOK\_alter\(array &$suggestions, array $variables\)_
+
 
 
