@@ -6,5 +6,7 @@ Locations are searched in this order:
 2. Parent theme \(when applicable\)
 3. Drupal core or contributed module
 
+Example:
 
+![](/assets/concept-template-node-many.png)
 
