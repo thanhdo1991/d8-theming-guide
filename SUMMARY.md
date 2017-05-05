@@ -64,4 +64,5 @@
   * [Overriding template files](templates/overriding-template-files.md)
   * [How Drupal determines which template to use](templates/how-drupal-determines-which-template-to-use.md)
   * [Theme Hook Suggestions](templates/theme-hook-suggestions.md)
+* [Override a Template File](override-a-template-file.md)
 
