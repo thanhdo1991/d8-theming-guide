@@ -31,7 +31,9 @@ Modules can also implement preprocess functions, and frequently do so in order t
 * `ENGINE_engine_preprocess(&$variables,$hook)`: Allows the theme engine to set necessary variables for all theme hooks with template implementations.
 * `ENGINE_engine_preprocess_HOOK(&$variables)`: Allows the theme engine to set necessary variables for the particular theme hook.
 * `THEME_preprocess(&$variables,$hook)`: Allows the theme to set necessary variables for all theme hooks with template implementations.
-* `THEME_preprocess_HOOK(&$variables)`: Allows the theme to set necessary variables specific to the particular theme hook. [https://api.drupal.org/api/drupal/core%21themes%21bartik%21bartik.theme/function/bartik\_preprocess\_html/8.3.x](https://api.drupal.org/api/drupal/core%21themes%21bartik%21bartik.theme/function/bartik_preprocess_html/8.3.x)
+* `THEME_preprocess_HOOK(&$variables)`: Allows the theme to set necessary variables specific to the particular theme hook. [https://api.drupal.org/api/drupal/core%21themes%21bartik%21bartik.theme/function/bartik\_preprocess\_html/8.3.x](https://api.drupal.org/api/drupal/core!themes!bartik!bartik.theme/function/bartik_preprocess_html/8.3.x)
+
+## Tips and tricks
 
 
 
