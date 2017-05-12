@@ -10,6 +10,6 @@ The best way to inspect the variables available in a template file is to use Twi
 
 ## Using Twig's dump\(\) function
 
-[      
+Enable Twig debug mode: [Configure Your Environment for Theme Development](/configure-your-environment-for-theme-development.md)[  
 ](https://drupalize.me/)
 
