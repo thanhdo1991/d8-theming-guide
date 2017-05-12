@@ -17,9 +17,5 @@ In this article, we need understand:
 * [passed by reference](http://php.net/manual/en/language.references.pass.php) so that you can manipulate the data it contains. The keys of this array directly correspond with the names of the variables in the preprocess function's corresponding template file.
 * In addition to the template-specific preprocess functions, there is also a single `THEMENAME_preprocess ()`function that is called for every template file.This function receives a second argument which is the _hook_ or template name.
 
-For example, your _THEMENAME.theme _file might include a preprocess function like the following which acts on variables for the
-
-_node.html.twig _template file:
-
-
+For example, your THEMENAME.theme file might include a preprocess function like the following which acts on variables for the node.html.twig template file:
 
