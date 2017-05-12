@@ -10,5 +10,5 @@ In this article, we need understand:
 
 ## Preprocess functions
 
-Preprocess functions can be used to perform additional conditional logic and data processing of the variables present in a Twig template file. Preprocess functions are optional, and are defined in a theme's [_THEMENAME.theme_](https://drupalize.me/tutorial/themenametheme-file) file.
+Preprocess functions can be used to perform additional conditional logic and data processing of the variables present in a Twig template file. Preprocess functions are optional, and are defined in a theme's _THEMENAME.theme_ file.
 
