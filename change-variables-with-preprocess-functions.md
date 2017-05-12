@@ -2,17 +2,13 @@ Preprocess functions are specially named functions that allow themes and modules
 
 ## Changing existing variables
 
-### Create a .theme file
-
-### Determine the hook name
-
-### Add a preprocess function
-
-### Find the variable you want to change
+* Create a .theme file
+* Determine the hook name
+* Add a preprocess function
+* Find the variable you want to change
+* Modify the variable
 
 
-
-### Modify the variable
 
 
 
