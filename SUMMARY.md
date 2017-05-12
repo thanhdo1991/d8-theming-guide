@@ -70,4 +70,5 @@
 * [Add Logic with THEMENAME.theme](add-logic-with-themenametheme.md)
 * [What Are Preprocess Functions?](what-are-preprocess-functions.md)
 * [Change Variables with Preprocess Functions](change-variables-with-preprocess-functions.md)
+* [Add Variables to a Template File](add-variables-to-a-template-file.md)
 
