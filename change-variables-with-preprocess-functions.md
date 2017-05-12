@@ -14,5 +14,7 @@ Preprocess functions are specially named functions that allow themes and modules
 
 * Clear the cache
 
+## A note about Drupal 7
+
 
 
