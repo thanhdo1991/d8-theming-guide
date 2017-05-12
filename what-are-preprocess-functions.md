@@ -14,7 +14,5 @@ Preprocess functions can be used to perform additional conditional logic and dat
 
 Preprocess functions are called once for each time a template is used.
 
-Preprocess functions follow a specific naming convention:
-
-`THEMENAME_preprocess_HOOK()`
+Preprocess functions follow a specific naming convention: `THEMENAME_preprocess_HOOK()`
 
