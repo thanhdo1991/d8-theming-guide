@@ -12,8 +12,7 @@ In this article, we need understand:
 * Determine the hook name
 * Add a preprocess function
 * Add a variable
-
-![](/assets/add_variable_template.png)
+* ![](/assets/add_variable_template.png)
 
 
 
