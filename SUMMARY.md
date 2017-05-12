@@ -69,4 +69,5 @@
 * [Inspect Variables Available in a Template](inspect-variables-available-in-a-template.md)
 * [Add Logic with THEMENAME.theme](add-logic-with-themenametheme.md)
 * [What Are Preprocess Functions?](what-are-preprocess-functions.md)
+* [Change Variables with Preprocess Functions](change-variables-with-preprocess-functions.md)
 
