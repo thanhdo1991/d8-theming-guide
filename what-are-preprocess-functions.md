@@ -13,14 +13,11 @@ In this article, we need understand:
 * Preprocess functions can be used to perform additional conditional logic and data processing of the variables present in a Twig template file. Preprocess functions are optional, and are defined in a theme's _THEMENAME.theme_ file.
 * Preprocess functions are called once for each time a template is used.
 * Preprocess functions follow a specific naming convention: `THEMENAME_preprocess_HOOK()`
-* Each preprocess function receives a single argument, usually named `$variables`, that is an associative array. The array is
-* [passed by reference](http://php.net/manual/en/language.references.pass.php) so that you can manipulate the data it contains. The keys of this array directly correspond with the names of the variables in the preprocess function's corresponding template file.
+* Each preprocess function receives a single argument, usually named `$variables`, that is an associative array. The array is [passed by reference](http://php.net/manual/en/language.references.pass.php) so that you can manipulate the data it contains. The keys of this array directly correspond with the names of the variables in the preprocess function's corresponding template file.
 
 For example, your THEMENAME.theme file might include a preprocess function like the following which acts on variables for the node.html.twig template file:
 
 ![](/assets/themename_node_example.png)
 
 In addition to the template-specific preprocess functions, there is also a single `THEMENAME_preprocess ()`function that is called for every template file.This function receives a second argument which is the _hook_ or template name.
-
-
 
