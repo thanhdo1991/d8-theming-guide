@@ -8,5 +8,14 @@ In this article, we need understand:
 
 ## Adding variables to a template file
 
+* Create a .theme file
+* Determine the hook name
+* Add a preprocess function
+* Add a variable![](/assets/add_variable_template.png)
+
+
+
+
+
 
 
