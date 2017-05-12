@@ -12,7 +12,10 @@ This file is the primary location for any PHP code within a theme. This keeps bu
 
 ## Use cases for THEMENAME.theme files
 
-### Preprocess functions: Alter, and add to, the variables available in a template file.
+* Preprocess functions: Alter, and add to, the variables available in a template file.
+* Theme hook suggestions: Add to, or alter, the list of candidate template file names used when locating the template to use for rendering a specified element.
+
+
 
 
 
