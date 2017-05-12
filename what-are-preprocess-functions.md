@@ -21,3 +21,5 @@ For example, your THEMENAME.theme file might include a preprocess function like 
 
 In addition to the template-specific preprocess functions, there is also a single `THEMENAME_preprocess ()`function that is called for every template file.This function receives a second argument which is the _hook_ or template name. This can be used for scenarios where you want to perform data processing for every single template file.
 
+Modules can also implement preprocess functions, and frequently do so in order to define the default set of variables available in a template file. The complete list of preprocess functions called for a template file is below, listed in the order they are called \(if they exist\):
+
