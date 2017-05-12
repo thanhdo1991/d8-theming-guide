@@ -23,3 +23,7 @@ The best way to inspect the variables available in a template file is to use Twi
 
 
 
+## Use a debugger
+
+
+
