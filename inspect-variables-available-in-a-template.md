@@ -17,9 +17,9 @@ The best way to inspect the variables available in a template file is to use Twi
 
 ## Using Kint and the Devel module for prettier output
 
-Download and install Devel: Download the [Devel project](https://www.drupal.org/project/devel) , which contains the Kint module that provides integration between Drupal and the Kint PHP library.
-
-Enable the Kint module: Enable the Kint module either via the Drupal UI
+1. Download and install Devel: Download the [Devel project](https://www.drupal.org/project/devel) , which contains the Kint module that provides integration between Drupal and the Kint PHP library.
+2. Enable the Kint module: Enable the Kint module either via the Drupal UI.
+3. kint\(\): In your template files instead of `{{dump()}}`you can use`{{kint()}}`which will provide the output in an easier to read and navigate format.
 
 
 
