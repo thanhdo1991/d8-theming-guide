@@ -25,5 +25,3 @@ The best way to inspect the variables available in a template file is to use Twi
 
 You can also use a PHP debugger like XDebug to inspect variables. And I highly recommend learning how to do so as it's an important skill for any developer.
 
-
-
