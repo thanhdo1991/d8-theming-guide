@@ -17,3 +17,7 @@ The best way to inspect the variables available in a template file is to use Twi
 
 
 
+## Using Kint and the Devel module for prettier output
+
+
+
