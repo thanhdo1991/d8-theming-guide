@@ -15,5 +15,7 @@ In this article, we need understand:
 
 ![](/assets/add_variable_template.png)
 
+* Use your new variable
+
 
 
