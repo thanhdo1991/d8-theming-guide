@@ -19,3 +19,5 @@ In this article, we need understand:
 
 For example, your THEMENAME.theme file might include a preprocess function like the following which acts on variables for the node.html.twig template file:
 
+![](/assets/themename_node_example.png)
+
