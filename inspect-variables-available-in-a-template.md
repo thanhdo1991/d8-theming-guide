@@ -8,6 +8,8 @@ The first place to look for information about the variables available in a templ
 
 The best way to inspect the variables available in a template file is to use Twig's`{{dump()}}`function.
 
-[    
+## Using Twig's dump\(\) function
+
+[      
 ](https://drupalize.me/)
 
