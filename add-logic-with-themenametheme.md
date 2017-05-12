@@ -8,5 +8,5 @@ In this article, we need understand:
 
 The THEMENAME.theme file_ is a PHP file, with a _.theme extension. It is used for complex conditional logic and data processing in the theme layer. The use of THEMENAME in this case is just a placeholder for the actual machine readable name of your theme.
 
-This file is the primary location for any PHP code within a theme. This keeps business logic out of your template files and cleanly separated from the markup. If you ever find yourself starting to write complex logic in a template file, consider whether it can be relocated into a _.theme _file.
+This file is the primary location for any PHP code within a theme. This keeps business logic out of your template files and cleanly separated from the markup. If you ever find yourself starting to write complex logic in a template file, consider whether it can be relocated into a .theme file.
 
