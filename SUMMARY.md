@@ -66,4 +66,5 @@
   * [Theme Hook Suggestions](templates/theme-hook-suggestions.md)
 * [Override a Template File](override-a-template-file.md)
 * [Determine the Base Name of a Template](determine-the-base-name-of-a-template.md)
+* [Inspect Variables Available in a Template](inspect-variables-available-in-a-template.md)
 
