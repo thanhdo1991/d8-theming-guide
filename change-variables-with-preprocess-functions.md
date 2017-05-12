@@ -7,6 +7,7 @@ Preprocess functions are specially named functions that allow themes and modules
 * Add a preprocess function
 * Find the variable you want to change
   * The `$variables`argument passed to this new function is an associative array. Each key in the array represents a variable that will be present in the Twig template file.
+  * For example: `$variables['label']`in your preprocess function maps to`{{label}}`in the Twig template.
 * Modify the variable
 
 
