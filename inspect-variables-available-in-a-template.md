@@ -6,10 +6,8 @@ The first place to look for information about the variables available in a templ
 
 ## There's more
 
-The next best way to inspect the variables available in a template file is to use Twig's`{{dump()}}`function.
+The best way to inspect the variables available in a template file is to use Twig's`{{dump()}}`function.
 
-[  
+[    
 ](https://drupalize.me/)
-
-
 
