@@ -4,3 +4,11 @@
 
 
 
+In this tutorial we'll learn about:
+
+* What preprocess functions are and how they work
+* The use case for preprocess functions
+* The order of execution for preprocess functions
+
+
+
