@@ -19,5 +19,5 @@ For example, your THEMENAME.theme file might include a preprocess function like 
 
 ![](/assets/themename_node_example.png)
 
-In addition to the template-specific preprocess functions, there is also a single `THEMENAME_preprocess ()`function that is called for every template file.This function receives a second argument which is the _hook_ or template name.
+In addition to the template-specific preprocess functions, there is also a single `THEMENAME_preprocess ()`function that is called for every template file.This function receives a second argument which is the _hook_ or template name. This can be used for scenarios where you want to perform data processing for every single template file.
 
