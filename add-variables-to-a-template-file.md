@@ -1,2 +1,10 @@
 Preprocess functions are specially named functions that can be used to add new variables to a Twig template file.
 
+In this tutorial we'll learn how to:
+
+* Use PHP to perform some complex logic in our theme
+* Store the resulting calculation in a variable
+* Make that variable available to a Twig template file
+
+
+
