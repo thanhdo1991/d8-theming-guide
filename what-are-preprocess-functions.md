@@ -16,3 +16,7 @@ Preprocess functions are called once for each time a template is used.
 
 Preprocess functions follow a specific naming convention: `THEMENAME_preprocess_HOOK()`
 
+Each preprocess function receives a single argument, usually named `$variables `, that is an associative array. The array is
+
+[passed by reference](http://php.net/manual/en/language.references.pass.php) so that you can manipulate the data it contains. The keys of this array directly correspond with the names of the variables in the preprocess function's corresponding template file.
+
