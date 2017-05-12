@@ -2,9 +2,7 @@ Every theme can contain an optional _THEMENAME.theme_ file. This file contains a
 
 In this tutorial we'll learn:
 
-* The use-case for
-  _THEMENAME.theme_
-  files
+* The use-case for _THEMENAME.theme _files
 * Where to find them
 * When you might need to edit one
 
