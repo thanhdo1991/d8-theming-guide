@@ -16,5 +16,5 @@ Preprocess functions are specially named functions that allow themes and modules
 
 ## A note about Drupal 7
 
-
+In Drupal 7 it was common to use preprocess functions to dynamically change the classes associated with an element.
 
