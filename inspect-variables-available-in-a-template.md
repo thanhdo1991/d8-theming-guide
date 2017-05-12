@@ -10,6 +10,12 @@ The best way to inspect the variables available in a template file is to use Twi
 
 ## Using Twig's dump\(\) function
 
-Enable Twig debug mode: [Configure Your Environment for Theme Development](/configure-your-environment-for-theme-development.md)[  
-](https://drupalize.me/)
+Enable Twig debug mode: [Configure Your Environment for Theme Development](/configure-your-environment-for-theme-development.md)[    
+](https://drupalize.me/)Locate a file to inspect: Locate the file for which you would like to get a list of available variables, and open it in your editor.
+
+dump\(\): Add the code `{{dump()}}`at the bottom of the file and refresh the page.
+
+
+
+
 
