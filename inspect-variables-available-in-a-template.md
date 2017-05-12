@@ -21,9 +21,9 @@ The best way to inspect the variables available in a template file is to use Twi
 2. Enable the Kint module: Enable the Kint module either via the Drupal UI.
 3. kint\(\): In your template files instead of `{{dump()}}`you can use`{{kint()}}`which will provide the output in an easier to read and navigate format.
 
-
-
 ## Use a debugger
+
+You can also use a PHP debugger like XDebug to inspect variables. And I highly recommend learning how to do so as it's an important skill for any developer.
 
 
 
