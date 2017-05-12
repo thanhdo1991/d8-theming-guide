@@ -23,10 +23,11 @@ In addition to the template-specific preprocess functions, there is also a singl
 
 Modules can also implement preprocess functions, and frequently do so in order to define the default set of variables available in a template file. The complete list of preprocess functions called for a template file is below, listed in the order they are called \(if they exist\):
 
-* `template_preprocess(&$variables,$hook)`: Creates a default set of variables for all theme hooks with template implementations. Provided by Drupal Core.
-* `template_preprocess_HOOK(&$variables)`: Should be implemented by the module that registers the theme hook, to set up default variables.
+* `template_preprocess(&$variables,$hook)`: Creates a default set of variables for all theme hooks with template implementations. Provided by Drupal Core. [https://api.drupal.org/api/drupal/core%21includes%21theme.inc/function/template\_preprocess/8.3.x](https://api.drupal.org/api/drupal/core%21includes%21theme.inc/function/template_preprocess/8.3.x "template\_preprocess")
+* `template_preprocess_HOOK(&$variables)`: Should be implemented by the module that registers the theme hook, to set up default variables. [https://api.drupal.org/api/drupal/core%21includes%21form.inc/function/template\_preprocess\_select/8.3.x](https://api.drupal.org/api/drupal/core%21includes%21form.inc/function/template_preprocess_select/8.3.x)
 * `MODULE_preprocess(&$variables,$hook)`: hook\_preprocess\(\) is invoked on all implementing modules.
-* `MODULE_preprocess_HOOK(&$variables)`: hook\_preprocess\_HOOK\(\) is invoked on all implementing modules, so that modules that didn't define the theme hook can alter the variables.
+* [https://api.drupal.org/api/drupal/core%21modules%21system%21tests%21modules%21common\_test%21common\_test.module/function/common\_test\_preprocess/8.3.x](https://api.drupal.org/api/drupal/core%21modules%21system%21tests%21modules%21common_test%21common_test.module/function/common_test_preprocess/8.3.x)
+* `MODULE_preprocess_HOOK(&$variables)`: hook\_preprocess\_HOOK\(\) is invoked on all implementing modules, so that modules that didn't define the theme hook can alter the variables. [https://api.drupal.org/api/drupal/core%21modules%21node%21node.module/function/node\_preprocess\_html/8.3.x](https://api.drupal.org/api/drupal/core%21modules%21node%21node.module/function/node_preprocess_html/8.3.x)
 * `ENGINE_engine_preprocess(&$variables,$hook)`: Allows the theme engine to set necessary variables for all theme hooks with template implementations.
 * `ENGINE_engine_preprocess_HOOK(&$variables)`: Allows the theme engine to set necessary variables for the particular theme hook.
 * `THEME_preprocess(&$variables,$hook)`: Allows the theme to set necessary variables for all theme hooks with template implementations.
