@@ -6,5 +6,5 @@ In this article, we need understand:
 * Where to find them
 * When you might need to edit one
 
-The _THEMENAME.theme _file is a PHP file, with a _.theme _extension. It is used for complex conditional logic and data processing in the theme layer. The use of _THEMENAME _in this case is just a placeholder for the actual machine readable name of your theme.
+The THEMENAME.theme file_ is a PHP file, with a _.theme \_extension. It is used for complex conditional logic and data processing in the theme layer. The use of \_THEMENAME \_in this case is just a placeholder for the actual machine readable name of your theme.
 
