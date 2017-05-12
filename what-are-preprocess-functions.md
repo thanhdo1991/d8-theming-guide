@@ -37,3 +37,5 @@ Modules can also implement preprocess functions, and frequently do so in order t
 
 Preprocess functions should always return render arrays. Twig will render arrays to HTML automatically when they are printed. And there is no need to call `theme()`or`drupal_render()`inside a preprocess function. This allows for more customization within the Twig template file, and is more performant because you don't end up rendering an array that is never displayed on the page.
 
+![](/assets/preprocess-tutorial-filter-example.png)
+
