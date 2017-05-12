@@ -10,3 +10,7 @@ The THEMENAME.theme file_ is a PHP file, with a _.theme extension. It is used fo
 
 This file is the primary location for any PHP code within a theme. This keeps business logic out of your template files and cleanly separated from the markup. If you ever find yourself starting to write complex logic in a template file, consider whether it can be relocated into a .theme file.
 
+## Use cases for THEMENAME.theme files
+
+
+
