@@ -12,7 +12,7 @@ The best way to inspect the variables available in a template file is to use Twi
 
 1. Enable Twig debug mode: [Configure Your Environment for Theme Development](/configure-your-environment-for-theme-development.md)
 2. Locate a file to inspect: Locate the file for which you would like to get a list of available variables, and open it in your editor.
-3. dump() : Add the code {{dump()}} at the bottom of the file and refresh the page.
+3. dump() : Add the code `{{dump()}}`at the bottom of the file and refresh the page.
 4. Dig deeper: Optionally, inspect the content of an individual variable like so: `{{dump(variable_name)}}`.
 
 ## Using Kint and the Devel module for prettier output
