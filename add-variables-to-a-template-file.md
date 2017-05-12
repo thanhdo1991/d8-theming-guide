@@ -15,7 +15,7 @@ In this article, we need understand:
 
 ![](/assets/add_variable_template.png)
 
-* Use your new variable
+* Use your new variable : Any new variables added in a preproccess function will have a new corresponding Twig variable injected into the template file being preprocessed. In this example, our _node.html.twig _files in the Ice Cream theme will all have an additional `{{current_user_is_owner}}`variable available.
 
 
 
