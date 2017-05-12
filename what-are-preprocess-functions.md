@@ -2,9 +2,7 @@
 * All of the dynamic content available to theme developers within a Twig template file is exposed through a preprocess function. 
 * Understanding how preprocess functions work, and the role they play, is important for both module developers and theme developers.
 
-
-
-In this tutorial we'll learn about:
+In this article, we need understand:
 
 * What preprocess functions are and how they work
 * The use case for preprocess functions
