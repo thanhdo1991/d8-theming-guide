@@ -12,7 +12,7 @@ Preprocess functions are specially named functions that allow themes and modules
 
   ![](/assets/modify_variable_preprocess.png)
 
-
+* Clear the cache
 
 
 
