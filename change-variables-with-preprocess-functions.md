@@ -18,3 +18,5 @@ Preprocess functions are specially named functions that allow themes and modules
 
 In Drupal 7 it was common to use preprocess functions to dynamically change the classes associated with an element.
 
+In Drupal 8, the preferred way to deal with altering/adding class names is via the Twig template file.
+
